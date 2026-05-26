@@ -22,7 +22,7 @@ def clean_text(text):
 
 # App title
 st.title('Hospital Review Sentiment Analyzer')
-st.write('Built by: Your Name')
+
 st.write('---')
 
 # Single review prediction
