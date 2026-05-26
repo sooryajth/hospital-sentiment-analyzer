@@ -27,7 +27,7 @@ def clean_text(text):
 
 # App title
 st.title('Hospital Review Sentiment Analyzer')
-st.write('Built by: Sooryajth')
+
 st.write('---')
 
 # Single review prediction
@@ -95,9 +95,4 @@ st.write('3. Service quality in specific departments')
 
 st.write('---')
 
-# Model information
-st.subheader('About This Model')
-st.write('Algorithm: Logistic Regression with class weight balancing')
-st.write('Features: TF-IDF with bigrams (ngram range 1-2)')
-st.write('Vocabulary size: 8366 unique word patterns')
-st.write('Negation handling: Preserved — not, no, never, dont')
+#
