@@ -88,10 +88,6 @@ with col3:
 st.write('---')
 
 # Top complaint drivers
-st.subheader('Top Complaint Drivers')
-st.write('1. Waiting times — emergency and lab departments')
-st.write('2. Billing transparency issues')
-st.write('3. Service quality in specific departments')
 
 st.write('---')
 
